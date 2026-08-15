@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-q6tdwf.kujang138gold.online/sitemap.xml
